@@ -1,0 +1,6 @@
+autopep8==1.6.0
+django-extensions==3.2.*
+Django==4.0.*
+isort==5.10.1
+python-decouple==3.6
+psycopg2-binary==2.9.*
